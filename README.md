@@ -6,7 +6,7 @@ c++ -std=gnu++1z -Wall -g -O3 wc61.cc -o wc61
 ```
 
 
-### Compile and Execute cpp
+#### Compile and Execute cpp
 ```
 g++ hello.cpp
 ./a.out
