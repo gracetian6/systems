@@ -1,3 +1,14 @@
+/*
+ Write a program cat61 that behaves like simple Unix cat:
+ it should read each file named on the command line in
+ order, printing their contents to the standard output.
+ When run with no arguments, cat61 should read from standard
+ input; and an argument that equals a single dash - means
+ “read from standard input here.” Many cat implementations
+ support a large variety of flag arguments,
+ but yours doesn’t need to.
+*/
+
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
